@@ -1,0 +1,323 @@
+General Questions on European Integration5 
+ 
+eu_position: How would you describe the GENERAL POSITION ON EUROPEAN 
+INTEGRATION that the party leadership took during 2024?  
+1 = strongly opposed 
+2= opposed 
+3 = somewhat opposed 
+4 = neutral 
+5 = somewhat in favor 
+6 = in favor 
+7 = strongly in favor 
+ 
+eu_salience: Next, we would like you to think about the SALIENCE of European 
+integration for a party. During 2024, how important was the EU to the parties in 
+their public stance?  
+0 = No importance 
+. 
+10 = great importance 
+ 
+eu_dissent:  What about CONFLICT OR DISSENT within parties over European 
+integration during 2024?  
+0 = party was completely united 
+. 
+10=party was extremely divided 
+ 
+eu_blur:  How blurry was each party’s position on European integration during 2024?  
+0 = not at all blurred 
+. 
+10= extremely blurred 
+   
+ 
+5 Experts were provided with a ‘don’t know’ option when assessing the positioning of political parties on a policy or 
+ideology. When compiling the means dataset, these scores were recoded as missing. 
+16 
+  
+Ideological Questions 
+ 
+We now turn to a few questions on the ideological positions of political parties in [country] in 
+2024. 
+ 
+lrecon: Parties can be classified in terms of their STANCE ON ECONOMIC ISSUES such as 
+privatization, taxes, regulation, government spending, and the welfare state. Parties on 
+the economic left want government to play an active role in the economy. Those on the 
+economic right want a reduced role for government. 
+0 = extreme left 
+. 
+10 = extreme right 
+ 
+lrecon_blur: Some parties may BLUR POSITIONS on economic issues, by taking vague, 
+ambiguous, or contradictory stances. During 2024, how blurry, would you say, is each 
+party's position on economic issues? 
+0 = not at all blurred 
+. 
+10 = extremely blurred 
+ 
+lrecon_dissent: During 2024, how DIVIDED has each party been on ECONOMIC issues?  
+0 = party was completed united 
+. 
+10 = party was extremely divided 
+ 
+lrecon_salience: We would now like you to think about the SALIENCE or importance of 
+economic issues for a party. During 2024, how important were economic issues to the 
+parties in their public stance?  
+0 = no importance 
+. 
+10 = of great importance 
+ 
+ 
+   
+17 
+ galtan: Parties can be classified in terms of their views on democratic freedoms and rights. 
+“LIBERTARIAN” OR “POSTMATERIALIST” parties favor expanded personal freedoms, for 
+example, abortion rights, same-sex marriage, and democratic participation. 
+“TRADITIONAL” OR “AUTHORITARIAN” parties reject these ideas in favor of order, 
+tradition, and stability, believing that the government should be a firm moral authority 
+on social and cultural issues. 
+0 = libertarian/postmaterialist 
+. 
+10 = traditional/authoritarian 
+galtan_blur: Some parties may BLUR positions, by taking vague, ambiguous, or 
+contradictory stances on libertarian/traditional issues. During 2024, how blurry is each 
+party's position on economic issues?  
+0 = not at all blurred 
+. 
+10 = extremely blurred 
+galtan_dissent: During 2024, how divided has each party been on 
+LIBERTARIAN/TRADITIONAL issues? 
+0 = party was completed united 
+. 
+10 = party was extremely divided 
+ 
+galtan_salience: During 2024, how important or SALIENT were libertarian/traditional issues 
+to the parties in their public stance?  
+0 = no importance 
+. 
+10 = of great importance 
+ 
+lrgen: And finally, please tick the box that best describes each party's OVERALL IDEOLOGY on 
+a scale ranging from 0 (extreme left) to 10 (extreme right). 
+0 = extreme left 
+. 
+10 = extreme right 
+ 
+ 
+   
+18 
+ Policy dimensions  
+ 
+And now we’d like to ask you about the positions of the party leadership on some specific policy 
+areas. 
+ 
+immigrate_policy: Where did political parties stand on IMMIGRATION in 2024?  
+0 = strongly favors a liberal policy on immigration 
+. 
+10 = strongly favors a restrictive policy on immigration  
+ 
+immigrate_salience: IMPORTANCE/SALIENCE of IMMIGRATION POLICY for each of the 
+following parties. 
+0 = no importance 
+. 
+10 = great importance 
+ 
+immigrate_dissent: What about how DIVIDED the parties were on IMMIGRATION POLICY? 
+0 = party was completed united 
+. 
+10 = party was extremely divided 
+ 
+multiculturalism: Next, what was their POSITION ON INTEGRATION OF IMMIGRANTS AND 
+ASYLUM SEEKERS (multiculturalism vs. assimilation) in 2024? 
+0 = strongly favors multiculturalism 
+. 
+10 = strongly favors assimilation  
+ 
+multicult_salience: IMPORTANCE/SALIENCE of INTEGRATION OF IMMIGRANTS AND ASYLUM 
+SEEKERS (multiculturalism vs. assimilation) 
+0 = no importance 
+. 
+10 = great importance 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+19 
+ redistribution: Next, where did these political parties stand on REDISTRIBUTION in 2024?  
+0 = strongly favors redistribution 
+. 
+10 = Strongly opposes redistribution  
+ 
+redist_salience: IMPORTANCE/SALIENCE of REDISTRIBUTION for each of the following parties 
+0 = no importance 
+. 
+10 = great importance 
+ 
+climate_change: What was their position towards CLIMATE CHANGE POLICIES during 2024?  
+0 = strongly supports climate change policies even at the cost of economic growth 
+. 
+10 = strongly supports economic growth even at the cost of climate change policies 
+ 
+climate_change_salience: IMPORTANCE/SALIENCE of CLIMATE CHANGE POLICIES for each of 
+the following parties  
+0 = no importance 
+. 
+10 = great importance 
+ 
+environment: What was their position towards ENVIRONMENTAL SUSTAINABILITY during 
+2024?  
+0 = strongly supports environmental protection even at the cost of economic growth 
+. 
+10 = strongly supports economic growth even at the cost of environmental protection 
+ 
+environment_salience: IMPORTANCE/SALIENCE of ENVIRONMENTAL SUSTAINABILITY for 
+each of the following parties  
+0 = no importance 
+. 
+10 = great importance 
+ 
+spendvtax: Position on IMPROVING PUBLIC SERVICES VS. REDUCING TAXES during 2024  
+0 = strongly favors improving public services 
+. 
+10 = strongly favors reducing taxes 
+ 
+ 
+ 
+20 
+ deregulation: Position on DEREGULATION OF MARKETS 
+0 = strongly opposes deregulation of markets 
+. 
+10 = strongly favors deregulation of markets  
+ 
+civlib_laworder: Position on CIVIL LIBERTIES VS. LAW AND ORDER  
+0 = strongly favors civil liberties 
+. 
+10 = strongly favors tough measures to fight crime 
+ 
+womens_rights: Position on policies supporting WOMEN’S RIGHTS (e.g. equal pay, family 
+leave, reproductive health) 
+0 = strongly supports women’s rights policies 
+. 
+10 = strongly opposes women’s rights policies  
+ 
+lgbtq_rights: Position on policies supporting LGBTQ+ RIGHTS (e.g. marriage equality, 
+adoption rights, transgender rights)  
+0 = strongly supports LGBTQ+ rights 
+. 
+10 = strongly opposes LGBTQ+ rights 
+ 
+samesex_marriage: Position on same-sex marriage  
+0 = strongly supports supports same-sex marriage rights 
+. 
+10 = strongly opposes supports same-sex marriage rights 
+ 
+religious_principles: Position on the role of RELIGIOUS PRINCIPLES in politics 
+0 = strongly opposes religious principles in politics 
+. 
+10 = strongly supports religious principles in politics 
+ 
+ethnic_minorities: Position towards ETHNIC MINORITY RIGHTS  
+0 = strongly favors more rights for ethnic minorities 
+. 
+10 = strongly opposes more rights for ethnic minorities  
+ 
+nationalism: Position towards COSMOPOLITANISM VS. NATIONALISM  
+0 = strongly promotes cosmopolitan conceptions of society 
+. 
+10 = strongly promotes nationalist conceptions of society 
+ 
+21 
+ urban_rural: Position on URBAN VS. RURAL interests  
+0 = strongly supports urban interests 
+. 
+10 = strongly supports rural interests 
+ 
+protectionism: Position towards TRADE LIBERALIZATION/ PROTECTIONISM  
+0 = strongly favors trade liberalization 
+. 
+10 = strongly favors protection of domestic producers 
+ 
+regions: Position on POLITICAL DECENTRALISATION TO REGIONS/LOCALITIES  
+0 = strongly favors political decentralisation 
+. 
+10 = strongly opposes political decentralisation 
+ 
+executive_power: Position on EXECUTIVE POWER  
+0 = executive leaders should be constrained in their actions 
+. 
+10 = executive leaders should be able to act without constraint 
+ 
+judicial_independence: Position on JUDICIAL INDEPENDENCE  
+0 = the judiciary should be independent 
+. 
+10 = the government should have influence over the judiciary 
+ 
+ 
+ 
+   
+22 
+ In the next section of the survey, we'd like your evaluation of party 
+characteristics. 
+ 
+corrupt_salience: How salient has REDUCING POLITICAL CORRUPTION been to each party in 
+2024?  
+0 = not important at all 
+. 
+10 = extremely important 
+ 
+anti_islam: How salient has ANTI-ISLAM RHETORIC been for the party leadership in 2024?  
+0 = not important at all 
+. 
+10 = extremely important 
+ 
+people_v_elite: Some political parties take the position that 'THE PEOPLE' should have the 
+final say on the most important issues, for example, by voting directly in referendums. At 
+the opposite pole are political parties that believe that ELECTED REPRESENTATIVES should 
+make the most important political decisions. Where did the parties fall on this dimension 
+during 2024?  
+0 = elected office holders should make the most important decisions 
+. 
+10 = ‘the people”, not politicians, should make the most important decisions  
+ 
+anti_elite_salience: How salient has ANTI-ESTABLISHMENT and ANTI-ELITE RHETORIC been 
+to each party during 2024?  
+0 = not important at all 
+. 
+10 = extremely important 
+ 
+       
+   
+23 
+ Questions on EU policies 
+ 
+Now we would like your opinion on where the party leadership stood in 2024 on the 
+following EU policy in 2024? 
+ 
+eu_foreign: EU authority over FOREIGN and SECURITY POLICY  
+1 = strongly opposes 
+2= opposes 
+3 = somewhat opposes 
+4 = neutral 
+5 = somewhat favors 
+6 = favors 
+7 = strongly favors 
+ 
+eu_intmark: The INTERNAL MARKET (i.e. free movement of goods, services, capital and 
+labor)  
+1 = strongly opposes 
+2= opposes 
+3 = somewhat opposes 
+4 = neutral 
+5 = somewhat favors 
+6 = favors 
+7 = strongly favors 
+  
+eu_russia: Thinking about the European Union's relationship with Russia, where do you place 
+each party on its preferred action for European countries to take?  
+0 = European countries should invest more in defence and security to defend against Russian aggression 
+. 
+10 = European countries should invest more in trade and diplomacy with Russia to improve relations  
+24 
+ 

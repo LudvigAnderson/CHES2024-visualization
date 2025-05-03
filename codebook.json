@@ -1,0 +1,512 @@
+{
+  "eu_position": {
+    "description": "How would you describe the GENERAL POSITION ON EUROPEAN INTEGRATION that the party leadership took during 2024?",
+    "values": {
+      "1": "strongly opposed",
+      "2": "opposed",
+      "3": "somewhat opposed",
+      "4": "neutral",
+      "5": "somewhat in favor",
+      "6": "in favor",
+      "7": "strongly in favor"
+    },
+    "range": [
+      1,
+      7
+    ]
+  },
+  "eu_salience": {
+    "description": "Next, we would like you to think about the SALIENCE of European integration for a party. During 2024, how important was the EU to the parties in their public stance?",
+    "values": {
+      "0": "No importance",
+      "10": "great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "eu_dissent": {
+    "description": "What about CONFLICT OR DISSENT within parties over European integration during 2024?",
+    "values": {
+      "0": "party was completely united",
+      "10": "party was extremely divided"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "eu_blur": {
+    "description": "How blurry was each party’s position on European integration during 2024?",
+    "values": {
+      "0": "not at all blurred",
+      "10": "extremely blurred"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "lrecon": {
+    "description": "Parties can be classified in terms of their STANCE ON ECONOMIC ISSUES such as privatization, taxes, regulation, government spending, and the welfare state. Parties on the economic left want government to play an active role in the economy. Those on the economic right want a reduced role for government.",
+    "values": {
+      "0": "extreme left",
+      "10": "extreme right"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "lrecon_blur": {
+    "description": "Some parties may BLUR POSITIONS on economic issues, by taking vague, ambiguous, or contradictory stances. During 2024, how blurry, would you say, is each party's position on economic issues?",
+    "values": {
+      "0": "not at all blurred",
+      "10": "extremely blurred"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "lrecon_dissent": {
+    "description": "During 2024, how DIVIDED has each party been on ECONOMIC issues?",
+    "values": {
+      "0": "party was completed united",
+      "10": "party was extremely divided"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "lrecon_salience": {
+    "description": "We would now like you to think about the SALIENCE or importance of economic issues for a party. During 2024, how important were economic issues to the parties in their public stance?",
+    "values": {
+      "0": "no importance",
+      "10": "of great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "galtan": {
+    "description": "Parties can be classified in terms of their views on democratic freedoms and rights. “LIBERTARIAN” OR “POSTMATERIALIST” parties favor expanded personal freedoms, for example, abortion rights, same-sex marriage, and democratic participation. “TRADITIONAL” OR “AUTHORITARIAN” parties reject these ideas in favor of order, tradition, and stability, believing that the government should be a firm moral authority on social and cultural issues.",
+    "values": {
+      "0": "libertarian/postmaterialist",
+      "10": "traditional/authoritarian"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "galtan_blur": {
+    "description": "Some parties may BLUR positions, by taking vague, ambiguous, or contradictory stances on libertarian/traditional issues. During 2024, how blurry is each party's position on economic issues?",
+    "values": {
+      "0": "not at all blurred",
+      "10": "extremely blurred"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "galtan_dissent": {
+    "description": "During 2024, how divided has each party been on LIBERTARIAN/TRADITIONAL issues?",
+    "values": {
+      "0": "party was completed united",
+      "10": "party was extremely divided"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "galtan_salience": {
+    "description": "During 2024, how important or SALIENT were libertarian/traditional issues to the parties in their public stance?",
+    "values": {
+      "0": "no importance",
+      "10": "of great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "lrgen": {
+    "description": "And finally, please tick the box that best describes each party's OVERALL IDEOLOGY on a scale ranging from 0 (extreme left) to 10 (extreme right).",
+    "values": {
+      "0": "extreme left",
+      "10": "extreme right"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "immigrate_policy": {
+    "description": "Where did political parties stand on IMMIGRATION in 2024?",
+    "values": {
+      "0": "strongly favors a liberal policy on immigration",
+      "10": "strongly favors a restrictive policy on immigration"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "immigrate_salience": {
+    "description": "IMPORTANCE/SALIENCE of IMMIGRATION POLICY for each of the following parties.",
+    "values": {
+      "0": "no importance",
+      "10": "great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "immigrate_dissent": {
+    "description": "What about how DIVIDED the parties were on IMMIGRATION POLICY?",
+    "values": {
+      "0": "party was completed united",
+      "10": "party was extremely divided"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "multiculturalism": {
+    "description": "Next, what was their POSITION ON INTEGRATION OF IMMIGRANTS AND ASYLUM SEEKERS (multiculturalism vs. assimilation) in 2024?",
+    "values": {
+      "0": "strongly favors multiculturalism",
+      "10": "strongly favors assimilation"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "multicult_salience": {
+    "description": "IMPORTANCE/SALIENCE of INTEGRATION OF IMMIGRANTS AND ASYLUM SEEKERS (multiculturalism vs. assimilation)",
+    "values": {
+      "0": "no importance",
+      "10": "great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "redistribution": {
+    "description": "Next, where did these political parties stand on REDISTRIBUTION in 2024?",
+    "values": {
+      "0": "strongly favors redistribution",
+      "10": "Strongly opposes redistribution"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "redist_salience": {
+    "description": "IMPORTANCE/SALIENCE of REDISTRIBUTION for each of the following parties",
+    "values": {
+      "0": "no importance",
+      "10": "great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "climate_change": {
+    "description": "What was their position towards CLIMATE CHANGE POLICIES during 2024?",
+    "values": {
+      "0": "strongly supports climate change policies even at the cost of economic growth",
+      "10": "strongly supports economic growth even at the cost of climate change policies"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "climate_change_salience": {
+    "description": "IMPORTANCE/SALIENCE of CLIMATE CHANGE POLICIES for each of the following parties",
+    "values": {
+      "0": "no importance",
+      "10": "great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "environment": {
+    "description": "What was their position towards ENVIRONMENTAL SUSTAINABILITY during 2024?",
+    "values": {
+      "0": "strongly supports environmental protection even at the cost of economic growth",
+      "10": "strongly supports economic growth even at the cost of environmental protection"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "environment_salience": {
+    "description": "IMPORTANCE/SALIENCE of ENVIRONMENTAL SUSTAINABILITY for each of the following parties",
+    "values": {
+      "0": "no importance",
+      "10": "great importance"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "spendvtax": {
+    "description": "Position on IMPROVING PUBLIC SERVICES VS. REDUCING TAXES during 2024",
+    "values": {
+      "0": "strongly favors improving public services",
+      "10": "strongly favors reducing taxes"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "deregulation": {
+    "description": "Position on DEREGULATION OF MARKETS",
+    "values": {
+      "0": "strongly opposes deregulation of markets",
+      "10": "strongly favors deregulation of markets"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "civlib_laworder": {
+    "description": "Position on CIVIL LIBERTIES VS. LAW AND ORDER",
+    "values": {
+      "0": "strongly favors civil liberties",
+      "10": "strongly favors tough measures to fight crime"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "womens_rights": {
+    "description": "Position on policies supporting WOMEN’S RIGHTS (e.g. equal pay, family leave, reproductive health)",
+    "values": {
+      "0": "strongly supports women’s rights policies",
+      "10": "strongly opposes women’s rights policies"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "lgbtq_rights": {
+    "description": "Position on policies supporting LGBTQ+ RIGHTS (e.g. marriage equality, adoption rights, transgender rights)",
+    "values": {
+      "0": "strongly supports LGBTQ+ rights",
+      "10": "strongly opposes LGBTQ+ rights"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "samesex_marriage": {
+    "description": "Position on same-sex marriage",
+    "values": {
+      "0": "strongly supports supports same-sex marriage rights",
+      "10": "strongly opposes supports same-sex marriage rights"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "religious_principles": {
+    "description": "Position on the role of RELIGIOUS PRINCIPLES in politics",
+    "values": {
+      "0": "strongly opposes religious principles in politics",
+      "10": "strongly supports religious principles in politics"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "ethnic_minorities": {
+    "description": "Position towards ETHNIC MINORITY RIGHTS",
+    "values": {
+      "0": "strongly favors more rights for ethnic minorities",
+      "10": "strongly opposes more rights for ethnic minorities"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "nationalism": {
+    "description": "Position towards COSMOPOLITANISM VS. NATIONALISM",
+    "values": {
+      "0": "strongly promotes cosmopolitan conceptions of society",
+      "10": "strongly promotes nationalist conceptions of society"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "urban_rural": {
+    "description": "Position on URBAN VS. RURAL interests",
+    "values": {
+      "0": "strongly supports urban interests",
+      "10": "strongly supports rural interests"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "protectionism": {
+    "description": "Position towards TRADE LIBERALIZATION/ PROTECTIONISM",
+    "values": {
+      "0": "strongly favors trade liberalization",
+      "10": "strongly favors protection of domestic producers"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "regions": {
+    "description": "Position on POLITICAL DECENTRALISATION TO REGIONS/LOCALITIES",
+    "values": {
+      "0": "strongly favors political decentralisation",
+      "10": "strongly opposes political decentralisation"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "executive_power": {
+    "description": "Position on EXECUTIVE POWER",
+    "values": {
+      "0": "executive leaders should be constrained in their actions",
+      "10": "executive leaders should be able to act without constraint"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "judicial_independence": {
+    "description": "Position on JUDICIAL INDEPENDENCE",
+    "values": {
+      "0": "the judiciary should be independent",
+      "10": "the government should have influence over the judiciary"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "corrupt_salience": {
+    "description": "How salient has REDUCING POLITICAL CORRUPTION been to each party in 2024?",
+    "values": {
+      "0": "not important at all",
+      "10": "extremely important"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "anti_islam": {
+    "description": "How salient has ANTI-ISLAM RHETORIC been for the party leadership in 2024?",
+    "values": {
+      "0": "not important at all",
+      "10": "extremely important"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "people_v_elite": {
+    "description": "Some political parties take the position that 'THE PEOPLE' should have the final say on the most important issues, for example, by voting directly in referendums. At the opposite pole are political parties that believe that ELECTED REPRESENTATIVES should make the most important political decisions. Where did the parties fall on this dimension during 2024?",
+    "values": {
+      "0": "elected office holders should make the most important decisions",
+      "10": "‘the people”, not politicians, should make the most important decisions"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "anti_elite_salience": {
+    "description": "How salient has ANTI-ESTABLISHMENT and ANTI-ELITE RHETORIC been to each party during 2024?",
+    "values": {
+      "0": "not important at all",
+      "10": "extremely important"
+    },
+    "range": [
+      0,
+      10
+    ]
+  },
+  "eu_foreign": {
+    "description": "EU authority over FOREIGN and SECURITY POLICY",
+    "values": {
+      "1": "strongly opposes",
+      "2": "opposes",
+      "3": "somewhat opposes",
+      "4": "neutral",
+      "5": "somewhat favors",
+      "6": "favors",
+      "7": "strongly favors"
+    },
+    "range": [
+      1,
+      7
+    ]
+  },
+  "eu_intmark": {
+    "description": "The INTERNAL MARKET (i.e. free movement of goods, services, capital and labor)",
+    "values": {
+      "1": "strongly opposes",
+      "2": "opposes",
+      "3": "somewhat opposes",
+      "4": "neutral",
+      "5": "somewhat favors",
+      "6": "favors",
+      "7": "strongly favors"
+    },
+    "range": [
+      1,
+      7
+    ]
+  },
+  "eu_russia": {
+    "description": "Thinking about the European Union's relationship with Russia, where do you place each party on its preferred action for European countries to take?",
+    "values": {
+      "0": "European countries should invest more in defence and security to defend against Russian aggression",
+      "10": "European countries should invest more in trade and diplomacy with Russia to improve relations"
+    },
+    "range": [
+      0,
+      10
+    ]
+  }
+}
