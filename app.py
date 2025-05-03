@@ -15,7 +15,7 @@ family_color_map = {
     "radrt" : "#003366",
     "con" : "#1E3A8A",
     "lib" : "#00BFFF",
-    "cd" : "#006400",
+    "cd" : "#dea302",
     "soc" : "#FF0000",
     "radleft" : "#800000",
     "green" : "#008000",
